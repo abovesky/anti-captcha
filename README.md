@@ -1,4 +1,4 @@
-# anti-captcha
+# anticaptcha
 
 A Simple wrapper for anti-captcha.com
 
@@ -8,7 +8,7 @@ A Simple wrapper for anti-captcha.com
 
 ## Installation:
 ```php
-composer require abovesky/anti-captcha
+composer require abovesky/anticaptcha
 ```
 
 ### Use for captcha ImageToText:
