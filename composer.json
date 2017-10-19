@@ -1,0 +1,21 @@
+{
+    "name": "abovesky/anticaptcha",
+    "description": "A Simple wrapper for anti-captcha.com",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abovesky",
+            "email": "abovesky@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "abovesky\\anticaptcha\\": "src/"
+        }
+    }
+}
